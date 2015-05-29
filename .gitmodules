@@ -1,0 +1,3 @@
+[submodule "basestation-core-indigo"]
+	path = basestation-core-indigo
+	url = https://github.com/pr2-debs/basestation-core-indigo
